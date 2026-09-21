@@ -1,88 +1,271 @@
-# Hi, I'm Asia Sehli 👋
+
+<!-- ===================== HEADER ===================== -->
+
+<h1 align="center">Hi, I'm Asia Sehli 👋</h1>
+
+<h3 align="center">
+  AI Engineering Student | Generative AI & Machine Learning
+</h3>
+
+<p align="center">
+  <a href="https://github.com/sehliasia">
+    <img src="https://img.shields.io/badge/GitHub-sehliasia-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/asia-sehli">
+    <img src="https://img.shields.io/badge/LinkedIn-Asia_Sehli-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sehliasia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF8C42&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineering+Student;Generative+AI+%7C+LLMs+%7C+RAG;Machine+Learning+%7C+Deep+Learning;Building+Intelligent+Solutions+with+Python" alt="Typing animation"/>
+</p>
+
+---
 
 ## 👩‍💻 About Me
 
-I am an Artificial Intelligence Engineering student at ENIAD in Morocco, with strong foundations in Machine Learning, Deep Learning, Generative AI and Data Analytics.
+I'm **Asia Sehli**, a third-year Artificial Intelligence Engineering student at **ENIAD, Berkane, Morocco**.
 
-I combine AI expertise with web and mobile development skills to build complete intelligent applications, from data processing and model integration to backend development and user interfaces.
+I am passionate about building intelligent applications that combine Artificial Intelligence, software engineering and data.
 
-I am motivated by real-world AI challenges and interested in creating innovative, practical and impactful solutions. I am currently seeking a Final-Year Project internship in Artificial Intelligence, Data or Software Development.
+My interests and experience include:
 
-## 🧠 Areas of Interest
+- 🤖 Generative AI, LLMs and RAG systems
+- 🧠 Machine Learning and Deep Learning
+- 🔍 Intelligent systems and AI Agents
+- 📊 Data Analytics and Business Intelligence
+- 💻 Web and mobile application development
 
-- Generative AI and Large Language Models
-- Retrieval-Augmented Generation
-- AI Agents and Intelligent Systems
-- Machine Learning and Deep Learning
-- Computer Vision
-- Reinforcement Learning
-- Business Intelligence and Data Analytics
-- Web and Mobile Application Development
+During my AI internship at **Sanad Global Solutions**, I contributed to the development of **Mo3allimAI**, an EdTech solution based on Generative AI, using RAG, hybrid search and vector databases.
 
-## 🛠️ Technologies & Skills
+I enjoy exploring real-world challenges and transforming ideas into practical technical solutions.
 
-**Artificial Intelligence:** Machine Learning, Deep Learning, CNN, MLP, Reinforcement Learning, LLMs, RAG, AI Agents and Computer Vision
+🎯 **Currently seeking a Final-Year Project (PFE) internship in Artificial Intelligence, Data or Software Development.**
 
-**AI Frameworks:** PyTorch, Scikit-learn, LangChain, LangGraph, Pandas and NumPy
+---
 
-**Programming Languages:** Python, Java, JavaScript, PHP, C, C++ and SQL
+## 🧠 AI & Technical Interests
 
-**Development:** FastAPI, Django, React.js, Flutter, Electron.js, HTML, CSS and Tailwind CSS
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative_AI-FF8C42?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-0D9488?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-2563EB?style=for-the-badge"/>
+</p>
 
-**Databases:** MongoDB, MySQL, SQLite, Oracle, ChromaDB and Vector Databases
+| Domain | Focus |
+|---|---|
+| Generative AI | LLMs, RAG, Prompt Engineering |
+| AI Agents | LangChain, LangGraph, Multi-Agent Systems |
+| Machine Learning | Classification, Prediction, Scikit-learn |
+| Deep Learning | CNN, MLP |
+| NLP | Language processing and document-based AI |
+| Data | ETL, Business Intelligence, Power BI |
+| Software Engineering | APIs, Backend, Web & Mobile Development |
 
-**Business Intelligence:** Power BI, Talend, ETL, OLAP, Data Warehousing and KPI Dashboards
+---
 
-**Tools & Methods:** Git, GitHub, UML, MERISE, MVC, Agile, Trello and Jupyter Notebook
+## 🛠️ Tech Stack
+
+### 🐍 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,c,cpp,mysql" alt="Programming languages"/>
+</p>
+
+### 🤖 Artificial Intelligence & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="AI technologies"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+</p>
+
+### ⚙️ Backend & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,react,flutter,electron,html,css,tailwind" alt="Development stack"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" alt="Databases"/>
+  <img src="https://img.shields.io/badge/Qdrant-FF4F64?style=flat"/>
+  <img src="https://img.shields.io/badge/ChromaDB-Vector_DB-6B46C1?style=flat"/>
+</p>
+
+### 🚀 DevOps, MLOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" alt="DevOps tools"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-181717?style=flat"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-### 🎓 Local and Offline AI Tutor
+### 🤖 Mo3allimAI — Generative AI EdTech Solution
 
-An intelligent tutoring system designed for Moroccan students, combining LLMs, RAG and AI Agents to provide document-based assistance, summaries, quizzes and mock exams.
+> An AI-powered educational solution designed to support Arabic language teaching for Moroccans living abroad.
 
-**Technologies:** Python, LLMs, RAG, LangChain, LangGraph, llama.cpp, FastAPI, ChromaDB and Electron.js
+**Key contributions:**
+- Generative AI integration for educational assistance.
+- RAG architecture combining hybrid search and vector databases.
+- Backend and AI integration using FastAPI.
+
+**Tech Stack:**
+
+`Python` `FastAPI` `React` `PostgreSQL` `Qdrant` `LLMs` `RAG`
+
+---
+
+### 🎓 NourIA — Local & Offline AI Tutor
+
+> An intelligent tutoring system designed to support Moroccan students through document-based assistance and educational interactions.
+
+**Features & Focus:**
+- Document-based question answering using RAG.
+- Intelligent tutoring and AI Agents.
+- Exploration of local and offline LLM execution.
+
+**Tech Stack:**
+
+`Python` `LangChain` `LangGraph` `llama.cpp` `FastAPI` `ChromaDB` `Electron.js`
+
+---
 
 ### 📊 E-commerce Performance Analysis
 
-A Business Intelligence solution for collecting, transforming and analyzing e-commerce data through an ETL pipeline, a data warehouse and interactive KPI dashboards.
+> A Business Intelligence project for transforming commercial data into meaningful insights.
 
-**Technologies:** Talend and Power BI
+**Key features:**
+- ETL pipeline for data preparation.
+- Data analysis and business performance tracking.
+- Interactive KPI dashboards.
 
-### 🧾 ExpensePro
+**Tech Stack:**
 
-A mobile expense management application that uses OCR to automatically extract information from receipts.
+`Talend` `Power BI` `ETL` `OLAP`
 
-**Technologies:** Flutter, SQLite and OCR
+---
 
 ### 🎯 Academic Success Prediction
 
-A Machine Learning system that predicts students' probability of academic success or dropout based on educational data.
+> A Machine Learning project focused on predicting students' academic success or dropout risk.
 
-**Technologies:** Python, Pandas and Scikit-learn
+**Key focus:**
+- Academic data analysis.
+- Predictive Machine Learning.
+- Model development using Scikit-learn.
+
+**Tech Stack:**
+
+`Python` `Pandas` `Scikit-learn`
+
+---
+
+### 🧾 ExpensePro — Mobile Expense Management
+
+> A mobile application for managing employee expense reports.
+
+**Features:**
+- Expense management.
+- Receipt information extraction using OCR.
+- Local data storage.
+
+**Tech Stack:**
+
+`Flutter` `SQLite` `OCR`
+
+---
 
 ### 🦷 Dental Clinic Management System
 
-A complete web application for managing patients, appointments and medical records.
+> A web application for managing dental clinic activities.
 
-**Technologies:** Django, SQLite, HTML, CSS and JavaScript
+**Features:**
+- Patient management.
+- Appointment management.
+- Medical record management.
 
-## 🚀 Currently
+**Tech Stack:**
 
-- Building end-to-end applications powered by Artificial Intelligence
-- Exploring LLMs, RAG systems, AI Agents and Generative AI
-- Strengthening my skills in Machine Learning and Deep Learning
-- Developing Business Intelligence and Data Analytics projects
-- Seeking a Final-Year Project internship in AI, Data or Software Development
+`Django` `SQLite` `HTML` `CSS` `JavaScript`
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sehliasia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Asia's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehliasia&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sehliasia&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🔬 Machine Learning and Deep Learning experimentation.
+- 🤖 LLMs, RAG architectures and AI Agents.
+- ⚙️ AI application integration with FastAPI.
+- 🐳 Docker and MLOps practices.
+- 📊 Data Analytics and Business Intelligence.
+- 💡 Innovative AI solutions for real-world problems.
+
+---
+
+## 🎯 Career Goals
+
+I'm looking for opportunities to:
+
+- Contribute to innovative Artificial Intelligence projects.
+- Strengthen my Machine Learning and Deep Learning expertise.
+- Develop and integrate AI models into practical applications.
+- Collaborate with engineering and research teams.
+- Learn from real-world AI challenges.
+
+**Open to PFE internship opportunities in AI, Data Science and Software Development.**
+
+---
 
 ## 🌍 Languages
 
-- Arabic
-- French
-- English 
+- 🇲🇦 Arabic
+- 🇫🇷 French
+- 🇬🇧 English
 
-## 📫 Connect With Me
+---
 
-- LinkedIn: [Asia Sehli](https://www.linkedin.com/in/asia-sehli)
-- GitHub: [sehliasia](https://github.com/sehliasia)
-- Email : sehliasia@gmail.com
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:sehliasia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/asia-sehli">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sehliasia">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Building intelligent solutions, one project at a time."</i> 🚀
+</p>

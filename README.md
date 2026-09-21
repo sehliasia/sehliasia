@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./ai-banner.png" alt="Asia Sehli AI Engineering Lab" width="100%">
+</p>
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">Hi, I'm Asia Sehli 👋</h1>

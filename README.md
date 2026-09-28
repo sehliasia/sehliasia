@@ -52,10 +52,10 @@ I enjoy exploring real-world challenges and transforming ideas into practical te
 ## 🧠 AI & Technical Interests
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-FF8C42?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-0D9488?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Analytics-2563EB?style=for-the-badge"/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
 </p>
 
 | Domain | Focus |

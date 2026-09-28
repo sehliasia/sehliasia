@@ -52,10 +52,7 @@ I enjoy exploring real-world challenges and transforming ideas into practical te
 ## 🧠 AI & Technical Interests
 
 <p align="center">
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
+  
 </p>
 
 | Domain | Focus |
